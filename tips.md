@@ -6,7 +6,7 @@
 
 
 
-### idea_取消自动import .*
+### idea_  取消自动import .*
 
 打开设置 > Editor > Code Style > Java > Scheme Default > Imports
 ① 将 Class count to use import with "*" 改为 99 （导入同一个包的类超过这个数值自动变为 * ）
